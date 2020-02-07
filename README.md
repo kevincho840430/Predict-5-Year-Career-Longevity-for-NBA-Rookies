@@ -10,7 +10,7 @@
 ![title](https://cdn.vox-cdn.com/thumbor/M_D1N-lON5o4JJei_VGt_c4yUyo=/0x0:3000x2000/2570x1446/filters:focal(1299x164:1779x644):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/62805531/rookie_comps1.0.jpg)
 
 # Feature 特徵說明
-![title](https://drive.google.com/uc?id=1HRjbFHz0-V8_f7nrx5-3WcjFFTB8XplC)
+![title](https://drive.google.com/?id=1HRjbFHz0-V8_f7nrx5-3WcjFFTB8XplC)
 
 # 實作
 詳見ipynb檔案
